@@ -112,4 +112,9 @@
 			</plugin>
 		</plugins>
 	</build>
+	<scm>
+		<connection>scm:git:https://github.com/sakarev/AutomationTest/</connection>
+		<developerConnection>scm:git:https://github.com/sakarev/AutomationTest/</developerConnection>
+		<url>https://github.com/sakarev/AutomationTest/</url>
+	</scm>
 </project>
