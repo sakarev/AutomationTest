@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.vasant</groupId>
 	<artifactId>portal</artifactId>
-	<version>7.5.0</version>
+	<version>7.5.0-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<name>Automating Project using Cucumber and WebDriver</name>
