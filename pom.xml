@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.vasant</groupId>
 	<artifactId>portal</artifactId>
-	<version>7.5.10-SNAPSHOT</version>
+	<version>7.5.10</version>
 	<packaging>jar</packaging>
 
 	<name>Automating Project using Cucumber and WebDriver</name>
@@ -139,6 +139,6 @@
 		<connection>scm:git:https://github.com/sakarev/AutomationTest/</connection>
 		<developerConnection>scm:git:https://github.com/sakarev/AutomationTest/</developerConnection>
 		<url>https://github.com/sakarev/AutomationTest/</url>
-	  <tag>portal-7.4.37</tag>
+	  <tag>portal-7.5.10</tag>
   </scm>
 </project>
