@@ -46,11 +46,11 @@
 	<distributionManagement>
   <snapshotRepository>
     <id>jenkins-48</id>
-    <url>https://s3.console.aws.amazon.com/s3/buckets/jenkins-48/</url>
+    <url>s3://jenkins-48/</url>
   </snapshotRepository>
   <repository>
     <id>jenkins-48</id>
-    <url>https://s3.console.aws.amazon.com/s3/buckets/jenkins-48/</url>
+    <url>s3://jenkins-48/</url>
   </repository>
 </distributionManagement>
 	<build>
